@@ -1,0 +1,42 @@
+# Node.js
+node_modules/
+package-lock.json
+npm-debug.log*
+
+# TypeScript
+*.tsbuildinfo
+
+# Compiled JavaScript
+dist/
+build/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.*.local
+
+# Puppeteer
+puppeteer_config.json
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Misc
+*.tmp
+*.swp
+*.swo
+
+# Debug files
+*.pid
+*.seed
+*.pid.lock
